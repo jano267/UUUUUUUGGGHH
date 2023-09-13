@@ -1,0 +1,1 @@
+When you run this file, make sure to have the terminal fullscreened, or reload the project if it gets screwed up. This program uses a GUI based in the terminal that requires the terminal to fill the screen. Make sure to not fullscreen VScode though, as you need to be able to click on the java JFrame program, which detects keypresses.
